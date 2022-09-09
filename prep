@@ -1,0 +1,3 @@
+github actions:
+
+procedure : we can broadly divide flow into two parts trigger events and jobs and we further divide jobs into like setting base os and steps to follow.
